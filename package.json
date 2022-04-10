@@ -1,6 +1,6 @@
 {
   "name": "alfred-fzy-safari-history",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "Use FZY to search safari's history",
   "repository": "tuan/alfred-fzy-safari-history",
   "main": "index.js",
